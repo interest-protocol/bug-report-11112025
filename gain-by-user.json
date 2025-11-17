@@ -1,0 +1,62 @@
+{
+  "totalGainUSD": 139171.4389950569,
+  "0xd92ebe520d03caa0fa835213a69031f8fd60ec076c5955ed775e332214b12b17": {
+    "txs": [
+      {
+        "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+        "tx": "0x0ff1a3bd4cca63386aff963440786e2bd2c299f4320b967215ae2006e7de3008",
+        "date": "2025-11-13T19:38:22.367Z",
+        "poolTokens": ["USDT", "MOVE"],
+        "lpAmount": 11.261518902,
+        "amounts": {
+          "USDT": 2.666383,
+          "MOVE": 50.45056256
+        }
+      }
+    ]
+  },
+  "0x878d2e00feee41f65a239a7811d5326c5a1c210758dccfa23bf121c8a28719b0": {
+    "txs": [
+      {
+        "tx": "0xdd74dad632b13be37ebaaa6729816a5bc2d08c723959353e6cfb1b0a759225ed",
+        "log_index": "0x3"
+      },
+      {
+        "tx": "0xc65c4846580a0a942a8701c9889335fc5b15b9a075059537a0f88d8788eeb2d2",
+        "log_index": "0x3"
+      },
+      {
+        "tx": "0xc7daaeb50ca7a3d9f5c89198303e1a79b51875d1d4bfbaadd73f6fd427b57ece",
+        "log_index": "0x3"
+      },
+      {
+        "tx": "0x75d238dee29a9f63248eed0fd01d40b8cdd4bcc511548b8193626ec4cd297dd9",
+        "log_index": "0x3"
+      }
+    ]
+  },
+  "0x1d0385bbe8e503eb005d439677213b4da48370523e0afa74f9561377a98dc10a": {
+    "txs": [
+      {
+        "tx": "0x26457b894857a485b9d2b9dedf4febd30df85eafaeaf6175dec9fadaf70628d2",
+        "log_index": "0x3"
+      }
+    ]
+  },
+  "0x9aef91ca28ba219801bd1f05179359b1afe2decb3fe241676ef7c0935ac483a7": {
+    "txs": [
+      {
+        "tx": "0xa904400aecbfeea04db128a10e45989b7cd01fda9b168ab0d77e56b6629a8a4b",
+        "log_index": "0x3"
+      }
+    ]
+  },
+  "0x827bb05b5c4860db5a8bca639ca74b58e4e2b03e1d4ac865b2d49012ff7d8f8d": {
+    "txs": [
+      {
+        "tx": "0x3c4d6435b4b1bbc48e619dfd640f2c0b22778b2c08067da65717f74127626582",
+        "log_index": "0x3"
+      }
+    ]
+  }
+}
