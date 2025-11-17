@@ -3,10 +3,7 @@
     "id": 1298840,
     "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "MOVE"
-    ],
+    "poolTokens": ["USDC", "MOVE"],
     "price": 0.5313083642970492,
     "totalValueUSD": 17.866,
     "shares": 33.626423374
@@ -15,10 +12,7 @@
     "id": 1298585,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049681674541224,
     "totalValueUSD": 94.155587,
     "shares": 93.690118801
@@ -27,10 +21,7 @@
     "id": 1298583,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049722103272385,
     "totalValueUSD": 1014.915679,
     "shares": 1009.89427227
@@ -39,10 +30,7 @@
     "id": 1297191,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049645247522763,
     "totalValueUSD": 0.0001,
     "shares": 0.000099506
@@ -51,10 +39,7 @@
     "id": 1296912,
     "pool": "0xc047546436145affa73b73df880d7b3a3c793e7155e0c6ad00a323ffc7e1d65a",
     "date": "11-11-2025",
-    "poolTokens": [
-      "MOVE",
-      "WETH"
-    ],
+    "poolTokens": ["MOVE", "WETH"],
     "price": 31.15619493645305,
     "totalValueUSD": 6075.4721769,
     "shares": 195.000454622
@@ -63,10 +48,7 @@
     "id": 1296906,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049669445716918,
     "totalValueUSD": 15000.060000000001,
     "shares": 14925.923763983
@@ -75,10 +57,7 @@
     "id": 1296849,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049669754058834,
     "totalValueUSD": 15000.062,
     "shares": 14925.925296144
@@ -87,10 +66,7 @@
     "id": 1296828,
     "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "MOVE"
-    ],
+    "poolTokens": ["USDC", "MOVE"],
     "price": 0.533605588504471,
     "totalValueUSD": 5336.1155,
     "shares": 10000.11172101
@@ -99,10 +75,7 @@
     "id": 1295946,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "11-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049396876792218,
     "totalValueUSD": 0.064308,
     "shares": 0.0639919
@@ -111,10 +84,7 @@
     "id": 1293104,
     "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
     "date": "10-11-2025",
-    "poolTokens": [
-      "USDT",
-      "MOVE"
-    ],
+    "poolTokens": ["USDT", "MOVE"],
     "price": 0.5140234392329479,
     "totalValueUSD": 36.8453,
     "shares": 71.680194302
@@ -123,10 +93,7 @@
     "id": 1291779,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "10-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049565963601805,
     "totalValueUSD": 110734.488343,
     "shares": 110188.3292712
@@ -135,10 +102,7 @@
     "id": 1291528,
     "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
     "date": "10-11-2025",
-    "poolTokens": [
-      "USDT",
-      "MOVE"
-    ],
+    "poolTokens": ["USDT", "MOVE"],
     "price": 0.5121328431801728,
     "totalValueUSD": 11891.068228573,
     "shares": 23218.718320687
@@ -147,10 +111,7 @@
     "id": 1290452,
     "pool": "0x110a99c29036cf12de428f55c6c1e1838578e3db6d17a0b3b4e6d2e101d124f1",
     "date": "10-11-2025",
-    "poolTokens": [
-      "USDC",
-      "WETH"
-    ],
+    "poolTokens": ["USDC", "WETH"],
     "price": 121.46750288590471,
     "totalValueUSD": 2898.2264399535998,
     "shares": 23.860097319
@@ -159,10 +120,7 @@
     "id": 1290442,
     "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
     "date": "10-11-2025",
-    "poolTokens": [
-      "USDC",
-      "MOVE"
-    ],
+    "poolTokens": ["USDC", "MOVE"],
     "price": 0.519639187592001,
     "totalValueUSD": 12.81186,
     "shares": 24.655299881
@@ -171,10 +129,7 @@
     "id": 1290263,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "10-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.004951298910508,
     "totalValueUSD": 0.062384,
     "shares": 0.06207664
@@ -183,10 +138,7 @@
     "id": 1288408,
     "pool": "0xc047546436145affa73b73df880d7b3a3c793e7155e0c6ad00a323ffc7e1d65a",
     "date": "09-11-2025",
-    "poolTokens": [
-      "MOVE",
-      "WETH"
-    ],
+    "poolTokens": ["MOVE", "WETH"],
     "price": 30.06488824320837,
     "totalValueUSD": 6.31048,
     "shares": 0.209895342
@@ -195,10 +147,7 @@
     "id": 1287765,
     "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
     "date": "09-11-2025",
-    "poolTokens": [
-      "USDC",
-      "MOVE"
-    ],
+    "poolTokens": ["USDC", "MOVE"],
     "price": 0.5206501100449507,
     "totalValueUSD": 12.509917680000001,
     "shares": 24.027494547
@@ -207,10 +156,7 @@
     "id": 1287738,
     "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
     "date": "09-11-2025",
-    "poolTokens": [
-      "USDT",
-      "MOVE"
-    ],
+    "poolTokens": ["USDT", "MOVE"],
     "price": 0.5093309428734415,
     "totalValueUSD": 0.0001,
     "shares": 0.000196336
@@ -219,10 +165,7 @@
     "id": 1287238,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "09-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049655268561857,
     "totalValueUSD": 5706.336039,
     "shares": 5678.141076989
@@ -231,10 +174,7 @@
     "id": 1287203,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "09-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049348428419789,
     "totalValueUSD": 162.249851,
     "shares": 161.453105299
@@ -243,10 +183,7 @@
     "id": 1286543,
     "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
     "date": "09-11-2025",
-    "poolTokens": [
-      "USDC",
-      "USDT"
-    ],
+    "poolTokens": ["USDC", "USDT"],
     "price": 1.0049674849419692,
     "totalValueUSD": 0.06189,
     "shares": 0.061584082
