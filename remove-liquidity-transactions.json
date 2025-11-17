@@ -1,0 +1,353 @@
+{
+  "0xb2cb9ef381e9f4062322c097855ffa5d886e91c0130a3425802a6224b3462c0b": {
+    "txs": [
+      {
+        "tx": "0xe3ef278041acb6566a53a52eb2f32bec12973759347d95d05d0f1897fbe7acb8",
+        "date": "2025-11-12T02:21:50.361Z",
+        "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+        "poolTokens": ["USDC", "MOVE"],
+        "LPToken": {
+          "price": 0.5077433133,
+          "amount": 15278.211463597,
+          "usd": 7757.4097098248
+        },
+        "USDC": {
+          "price": 1,
+          "amount": 7421.180197,
+          "usd": 7421.180197
+        },
+        "lossUSD": 336.2295128248
+      },
+      {
+        "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+        "poolTokens": ["USDT", "MOVE"],
+        "date": "2025-11-12T02:23:14.857Z",
+        "tx": "0xf995bbe4a7f7f159b332858cafaba9fe63cdf5e95391ed48f9adec86cd7b673f",
+        "LPToken": {
+          "amount": 45195.374793154,
+          "price": 0.4986082052,
+          "usd": 22540.8442618248
+        },
+        "USDT": {
+          "amount": 19960.364052,
+          "price": 1,
+          "usd": 19960.364052
+        },
+        "lossUSD": 2580.4802098248
+      }
+    ],
+    "totalLossUSD": 2916.7097226496
+  },
+  "0x71f36d22482fdf50c6c5d67f9f11b0d4ce745c7c02651fb61f69ba20bdc67fe3": {
+    "txs": [
+      {
+        "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+        "poolTokens": ["USDC", "MOVE"],
+        "tx": "0x44604bc7630f806e415beddc242e4ae260d191e9099f31d8387b951623f3180a",
+        "date": "2025-11-12T15:25:33.863Z",
+        "USDC": {
+          "amount": 6.887429,
+          "price": 1,
+          "usd": 6.887429
+        },
+        "LPToken": {
+          "amount": 13.375636324,
+          "price": 0.5077433133,
+          "usd": 6.7913899046
+        },
+        "lossUSD": 0.0960390954
+      }
+    ],
+    "totalLossUSD": 0.0960390954
+  },
+  "0x2877bd92381a0201c16b7a0e04beb8467f8a9f9195a50c622485de953e44df61": {
+    "txs": [
+      {
+        "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+        "poolTokens": ["USDC", "MOVE"],
+        "tx": "0x0f69acbafe643fd4282b88e2f4cf9d055fed092689d86974d98694cbbb1517a7",
+        "date": "2025-11-12T20:29:08.350Z",
+        "USDC": {
+          "amount": 6.335732,
+          "price": 1,
+          "usd": 6.335732
+        },
+        "LPToken": {
+          "amount": 12.634227552,
+          "price": 0.5077433133,
+          "usd": 6.4281682656
+        },
+        "lossUSD": 0.0924362656
+      }
+    ],
+    "totalLossUSD": 0.0924362656
+  },
+  "0x88eca195abddf6fd829ace5bd5a3533849444229c70053eb0d0e0013e403a9be": {
+    "txs": [
+      {
+        "pool": "0xc047546436145affa73b73df880d7b3a3c793e7155e0c6ad00a323ffc7e1d65a",
+        "tx": "0x565b22af3da0cb1ff9a14fa148fcafcba760964beac970c4c527b2e8f1cedc6b",
+        "poolTokens": ["MOVE", "WETH"],
+        "date": "2025-11-13T01:24:20.855Z",
+        "LPToken": {
+          "amount": 1750.002298371,
+          "price": 28.9158423039,
+          "usd": 50602.7904911584
+        },
+        "MOVE": {
+          "amount": 516148.07503275,
+          "price": 0.0589,
+          "usd": 30401.121619429
+        },
+        "lossUSD": 20201.6688717294
+      },
+      {
+        "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+        "tx": "0xb8f2ede55093026eb75d2eb5fd818b824397d52c6ffb271e429ed3a43e43d874",
+        "poolTokens": ["USDC", "USDTe"],
+        "date": "2025-11-13T03:07:49.354Z",
+        "LPToken": {
+          "amount": 99.970999177,
+          "price": 1.01530459138,
+          "usd": 101.5010144693
+        },
+        "USDC": {
+          "amount": 101.471061,
+          "price": 1,
+          "usd": 101.471061
+        },
+        "lossUSD": 0.0299534693
+      },
+      {
+        "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+        "poolTokens": ["USDC", "MOVE"],
+        "tx": "0x0b74ce0b2cf839721a3cc700f340ef740a2cea76cad84beb4f0a5b4e667a4fe7",
+        "date": "2025-11-13T01:23:06.354Z",
+        "LPToken": {
+          "amount": 30000.129570751,
+          "price": 0.5077433133,
+          "usd": 15232.3651876824
+        },
+        "USDC": {
+          "amount": 13769.936331,
+          "price": 1,
+          "usd": 13769.936331
+        },
+        "lossUSD": 1462.4288566824
+      },
+      {
+        "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+        "poolTokens": ["USDT", "MOVE"],
+        "date": "2025-11-13T01:23:55.853Z",
+        "tx": "0x73d8e0a31d5c31c628e09c21164ff6c7f76ba0944f20c3afded52bd9127c2ef4",
+        "LPToken": {
+          "amount": 50000.082117697,
+          "price": 0.4986082052,
+          "usd": 24930.4512045575
+        },
+        "USDT": {
+          "amount": 20059.29594,
+          "price": 1,
+          "usd": 20059.29594
+        },
+        "lossUSD": 4871.1552645575
+      },
+      {
+        "pool": "0x110a99c29036cf12de428f55c6c1e1838578e3db6d17a0b3b4e6d2e101d124f1",
+        "tx": "0x384e69ab3cc0a89e603bc259385d61b882c22d590f4269d5881db7f2a8cccbc6",
+        "poolTokens": ["USDC", "WETH"],
+        "date": "2025-11-13T01:23:55.853Z",
+        "USDC": {
+          "amount": 23343.802822,
+          "price": 1,
+          "usd": 23343.802822
+        },
+        "LPToken": {
+          "amount": 300.01569911,
+          "price": 118.7646504343,
+          "usd": 35631.2596296013
+        },
+        "lossUSD": 12287.4568076013
+      },
+      {
+        "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+        "poolTokens": ["USDC", "USDTe"],
+        "tx": "0x5725badaa03143bd5932ccb042c68e6110122b89f5d1ebdba0ee6651a3e4f5fa",
+        "date": "2025-11-13T01:25:15.866Z",
+        "USDC": {
+          "amount": 161931.515178,
+          "price": 1,
+          "usd": 161931.515178
+        },
+        "LPToken": {
+          "amount": 218913.475311309,
+          "price": 1.01530459138,
+          "usd": 212475.511313141
+        },
+        "lossUSD": 50543.996135141
+      }
+    ],
+    "totalLossUSD": 89366.7358891809
+  },
+  "0x56843f7147f1490455ac286dc1b82d0871e4e6909e3bb7e63f73426ccbba5cb9": {
+    "txs": [
+      {
+        "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+        "poolTokens": ["USDC", "MOVE"],
+        "date": "2025-11-13T01:25:15.866Z",
+        "tx": "0x8e9fe597d0bebaf8d20d4123992c157e19aa9d870b74d30c2ef7241e46d9e88d",
+        "USDC": {
+          "amount": 30449.787226,
+          "price": 1,
+          "usd": 30449.787226
+        },
+        "LPToken": {
+          "amount": 70569.136824073,
+          "price": 0.5077433133,
+          "usd": 35831.007347775864
+        },
+        "lossUSD": 5381.2201217759
+      },
+      {
+        "pool": "0xc047546436145affa73b73df880d7b3a3c793e7155e0c6ad00a323ffc7e1d65a",
+        "tx": "0x455569edec60f5668a7f1fb33aca89c760a716656debce84cb9532dce033698b",
+        "poolTokens": ["MOVE", "WETH"],
+        "date": "2025-11-12T15:02:40.862Z",
+        "MOVE": {
+          "amount": 504407.87275964,
+          "price": 0.0589,
+          "usd": 29709.6237055428
+        },
+        "LPToken": {
+          "amount": 1225.007457076,
+          "price": 28.9158423039,
+          "usd": 35422.1224499112
+        },
+        "lossUSD": 5712.4987443684
+      },
+      {
+        "pool": "0x110a99c29036cf12de428f55c6c1e1838578e3db6d17a0b3b4e6d2e101d124f1",
+        "tx": "0xac8a423f9663f0ff717969aebce2427b70fd3c9431200262ae978cb190776599",
+        "date": "2025-11-12T15:03:11.862Z",
+        "poolTokens": ["USDC", "WETH"],
+        "USDC": {
+          "amount": 60143.30625,
+          "price": 1,
+          "usd": 60143.30625
+        },
+        "LPToken": {
+          "amount": 738.0005173,
+          "price": 118.7646504343,
+          "usd": 87648.3734574671
+        },
+        "lossUSD": 27505.0672074671
+      }
+    ],
+    "totalLossUSD": 38598.7860736114
+  },
+  "0xde9a513b92129976a3fd597a9e4a4333ce17a4794e7d4cf883344ebaf8770535": {
+    "txs": [
+      {
+        "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+        "tx": "0xb04af4e35508bb04fba794594a771bc732f72a4d4bc654e8d3fa8eff426b9d5b",
+        "date": "2025-11-12T21:45:59.851Z",
+        "poolTokens": ["USDC", "MOVE"],
+        "USDC": {
+          "amount": 4032.734721,
+          "price": 1,
+          "usd": 4032.734721
+        },
+        "LPToken": {
+          "amount": 8282.05608729,
+          "price": 0.5077433133,
+          "usd": 4205.1585986971
+        },
+        "lossUSD": 172.4238776971
+      },
+      {
+        "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+        "tx": "0xdf9f530f9f3d42361f6ed7797e8f484bef603ae38c832d0eba661fd09b329458",
+        "poolTokens": ["USDT", "MOVE"],
+        "date": "2025-11-12T21:50:10.353Z",
+        "USDT": {
+          "amount": 23767.321899,
+          "price": 1,
+          "usd": 23767.321899
+        },
+        "LPToken": {
+          "amount": 55915.473705444,
+          "price": 0.4986082052,
+          "usd": 27879.9139871792
+        },
+        "lossUSD": 4112.5920881792
+      }
+    ],
+    "totalLossUSD": 4285.0159658763
+  },
+  "0x3c376b98a57ab223885be8f9108749fa5a36b65f6052feb8af055d2d2ae642c7": {
+    "txs": [
+      {
+        "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+        "poolTokens": ["USDC", "USDTe"],
+        "tx": "0x68bf91926937de59a86c0393aec1d5ff58e8acecfcfde1ca5e952b28b16be0b3",
+        "date": "2025-11-13T00:07:26.853Z",
+        "USDC": {
+          "amount": 116393.138655,
+          "price": 1,
+          "usd": 116393.138655
+        },
+        "LPToken": {
+          "amount": 115848.731063569,
+          "price": 1.01530459138,
+          "usd": 117621.7485543884
+        },
+        "lossUSD": 1228.6098993884
+      }
+    ],
+    "totalLossUSD": 1228.6098993884
+  },
+  "0xebf31009639e26935d9b83604a556de9b884e9878ca20c45387480c6f934f90f": {
+    "txs": [
+      {
+        "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+        "poolTokens": ["USDT", "MOVE"],
+        "tx": "0x73c2fe3e1b9c3f2179d57659f5e74f24bff42c1707d26992187b928560c3fc5f",
+        "date": "2025-11-13T01:06:26.852Z",
+        "USDT": {
+          "amount": 6176.894883,
+          "price": 1,
+          "usd": 6176.894883
+        },
+        "LPToken": {
+          "amount": 13015.209001969,
+          "price": 0.4986082052,
+          "usd": 6489.4900007746
+        },
+        "lossUSD": 312.5951177746
+      }
+    ],
+    "totalLossUSD": 312.5951177746
+  },
+  "0xd92ebe520d03caa0fa835213a69031f8fd60ec076c5955ed775e332214b12b17": {
+    "txs": [
+      {
+        "tx": "0x6fe5d2e188098eaa88f963e5f3f43b42df81ed8febabedd3a1f90ee8fd7048e5",
+        "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+        "poolTokens": ["USDC", "MOVE"],
+        "date": "2025-11-13T16:14:01.361Z",
+        "USDC": {
+          "amount": 13776.281254,
+          "price": 1,
+          "usd": 13776.281254
+        },
+        "LPToken": {
+          "amount": 31982.851728113,
+          "price": 0.5077433133,
+          "usd": 16239.07910521473
+        },
+        "lossUSD": 2462.7978512147
+      }
+    ],
+    "totalLossUSD": 2462.7978512147
+  }
+}
