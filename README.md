@@ -1,6 +1,6 @@
 # BUG Report - interestprotocol.com Incident
 
-Due to the incident on https://interestprotocol.com, our fronted was showing that user is quoting both coins, but wallet was displaying only one of them
+Due to the incident on https://interestprotocol.com, our frontend was showing that user is quoting both coins, but wallet was displaying only one of them
 
 Technically, contracts remains safe but users who didn't payed attention to the wallet information suffered money losses, and that's exactly what this repository is about
 
