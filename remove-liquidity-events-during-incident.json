@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1300424,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xe3ef278041acb6566a53a52eb2f32bec12973759347d95d05d0f1897fbe7acb8",
+    "timestamp": "1762914110361994",
+    "log_index": "0x1",
+    "block_number": "36038709",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC"],
+      "amounts": [7421180197],
+      "shares": 15278211463597
+    },
+    "indexed_at": "2025-11-12 02:21:50.61389+00",
+    "sender": null
+  },
+  {
+    "id": 1305083,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xdf9f530f9f3d42361f6ed7797e8f484bef603ae38c832d0eba661fd09b329458",
+    "timestamp": "1762984210353071",
+    "log_index": "0x1",
+    "block_number": "36138508",
+    "data": {
+      "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+      "fas": ["USDT"],
+      "amounts": [23767321899],
+      "shares": 55915473705444
+    },
+    "indexed_at": "2025-11-12 21:50:10.619619+00",
+    "sender": null
+  },
+  {
+    "id": 1305930,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x565b22af3da0cb1ff9a14fa148fcafcba760964beac970c4c527b2e8f1cedc6b",
+    "timestamp": "1762997060855536",
+    "log_index": "0x1",
+    "block_number": "36151628",
+    "data": {
+      "pool": "0xc047546436145affa73b73df880d7b3a3c793e7155e0c6ad00a323ffc7e1d65a",
+      "fas": ["MOVE"],
+      "amounts": [51614807503275],
+      "shares": 1750002298371
+    },
+    "indexed_at": "2025-11-13 01:24:28.702324+00",
+    "sender": null
+  },
+  {
+    "id": 1307263,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xb8f2ede55093026eb75d2eb5fd818b824397d52c6ffb271e429ed3a43e43d874",
+    "timestamp": "1763003269354351",
+    "log_index": "0x3",
+    "block_number": "36161780",
+    "data": {
+      "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+      "fas": ["USDC"],
+      "amounts": [101471061],
+      "shares": 99970999177
+    },
+    "indexed_at": "2025-11-13 03:07:49.586198+00",
+    "sender": null
+  },
+  {
+    "id": 1309856,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x6fe5d2e188098eaa88f963e5f3f43b42df81ed8febabedd3a1f90ee8fd7048e5",
+    "timestamp": "1763050441361331",
+    "log_index": "0x1",
+    "block_number": "36217793",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC"],
+      "amounts": [13776281254],
+      "shares": 31982851728113
+    },
+    "indexed_at": "2025-11-13 16:14:01.679573+00",
+    "sender": null
+  },
+  {
+    "id": 1310142,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x0ff1a3bd4cca63386aff963440786e2bd2c299f4320b967215ae2006e7de3008",
+    "timestamp": "1763053479862694",
+    "log_index": "0x3",
+    "block_number": "36223353",
+    "data": {
+      "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+      "fas": ["USDT", "MOVE"],
+      "amounts": [7836699793, 14214003649346],
+      "shares": 32312438441093
+    },
+    "indexed_at": "2025-11-13 17:04:40.13277+00",
+    "sender": null
+  },
+  {
+    "id": 1310593,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xdd74dad632b13be37ebaaa6729816a5bc2d08c723959353e6cfb1b0a759225ed",
+    "timestamp": "1763059898376937",
+    "log_index": "0x3",
+    "block_number": "36230736",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC", "MOVE"],
+      "amounts": [73637146, 139739190559],
+      "shares": 307280802911
+    },
+    "indexed_at": "2025-11-13 18:51:51.607907+00",
+    "sender": null
+  },
+  {
+    "id": 1310611,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xc65c4846580a0a942a8701c9889335fc5b15b9a075059537a0f88d8788eeb2d2",
+    "timestamp": "1763059919361496",
+    "log_index": "0x3",
+    "block_number": "36230775",
+    "data": {
+      "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+      "fas": ["USDT", "MOVE"],
+      "amounts": [42386839, 80125062621],
+      "shares": 178944204275
+    },
+    "indexed_at": "2025-11-13 18:52:10.170316+00",
+    "sender": null
+  },
+  {
+    "id": 1310613,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xc7daaeb50ca7a3d9f5c89198303e1a79b51875d1d4bfbaadd73f6fd427b57ece",
+    "timestamp": "1763059939862823",
+    "log_index": "0x3",
+    "block_number": "36230803",
+    "data": {
+      "pool": "0x110a99c29036cf12de428f55c6c1e1838578e3db6d17a0b3b4e6d2e101d124f1",
+      "fas": ["USDC", "WETH"],
+      "amounts": [53393370, 1700937],
+      "shares": 936041925
+    },
+    "indexed_at": "2025-11-13 18:52:52.106679+00",
+    "sender": null
+  },
+  {
+    "id": 1310614,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x75d238dee29a9f63248eed0fd01d40b8cdd4bcc511548b8193626ec4cd297dd9",
+    "timestamp": "1763059971863288",
+    "log_index": "0x3",
+    "block_number": "36230815",
+    "data": {
+      "pool": "0xc047546436145affa73b73df880d7b3a3c793e7155e0c6ad00a323ffc7e1d65a",
+      "fas": ["MOVE", "WETH"],
+      "amounts": [18765095278, 319639],
+      "shares": 750954978
+    },
+    "indexed_at": "2025-11-13 18:52:52.106679+00",
+    "sender": null
+  },
+  {
+    "id": 1310403,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x26457b894857a485b9d2b9dedf4febd30df85eafaeaf6175dec9fadaf70628d2",
+    "timestamp": "1763057241364462",
+    "log_index": "0x3",
+    "block_number": "36227796",
+    "data": {
+      "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+      "fas": ["USDC", "USDT"],
+      "amounts": [7553, 13112],
+      "shares": 20354446
+    },
+    "indexed_at": "2025-11-13 18:07:21.5849+00",
+    "sender": null
+  },
+  {
+    "id": 1302475,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x8e9fe597d0bebaf8d20d4123992c157e19aa9d870b74d30c2ef7241e46d9e88d",
+    "timestamp": "1762959710864503",
+    "log_index": "0x1",
+    "block_number": "36109391",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC"],
+      "amounts": [30449787226],
+      "shares": 70569136824073
+    },
+    "indexed_at": "2025-11-12 15:01:51.119887+00",
+    "sender": null
+  },
+  {
+    "id": 1302607,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x455569edec60f5668a7f1fb33aca89c760a716656debce84cb9532dce033698b",
+    "timestamp": "1762959760862823",
+    "log_index": "0x1",
+    "block_number": "36109549",
+    "data": {
+      "pool": "0xc047546436145affa73b73df880d7b3a3c793e7155e0c6ad00a323ffc7e1d65a",
+      "fas": ["MOVE"],
+      "amounts": [50440787275964],
+      "shares": 1225007457076
+    },
+    "indexed_at": "2025-11-12 15:02:41.075699+00",
+    "sender": null
+  },
+  {
+    "id": 1302671,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xac8a423f9663f0ff717969aebce2427b70fd3c9431200262ae978cb190776599",
+    "timestamp": "1762959791862633",
+    "log_index": "0x1",
+    "block_number": "36109685",
+    "data": {
+      "pool": "0x110a99c29036cf12de428f55c6c1e1838578e3db6d17a0b3b4e6d2e101d124f1",
+      "fas": ["USDC"],
+      "amounts": [60143306250],
+      "shares": 738000517300
+    },
+    "indexed_at": "2025-11-12 15:03:12.23345+00",
+    "sender": null
+  },
+  {
+    "id": 1303222,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x44604bc7630f806e415beddc242e4ae260d191e9099f31d8387b951623f3180a",
+    "timestamp": "1762961133863574",
+    "log_index": "0x1",
+    "block_number": "36112664",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC"],
+      "amounts": [6887429],
+      "shares": 13375636324
+    },
+    "indexed_at": "2025-11-12 15:25:46.116714+00",
+    "sender": null
+  },
+  {
+    "id": 1304962,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x0f69acbafe643fd4282b88e2f4cf9d055fed092689d86974d98694cbbb1517a7",
+    "timestamp": "1762979348350970",
+    "log_index": "0x1",
+    "block_number": "36134894",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC"],
+      "amounts": [6335732],
+      "shares": 12634227552
+    },
+    "indexed_at": "2025-11-12 20:29:08.562861+00",
+    "sender": null
+  },
+  {
+    "id": 1305690,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x73c2fe3e1b9c3f2179d57659f5e74f24bff42c1707d26992187b928560c3fc5f",
+    "timestamp": "1762995986852529",
+    "log_index": "0x1",
+    "block_number": "36149526",
+    "data": {
+      "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+      "fas": ["USDT"],
+      "amounts": [6176894883],
+      "shares": 13015209001969
+    },
+    "indexed_at": "2025-11-13 01:06:27.123788+00",
+    "sender": null
+  },
+  {
+    "id": 1305861,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x73d8e0a31d5c31c628e09c21164ff6c7f76ba0944f20c3afded52bd9127c2ef4",
+    "timestamp": "1762997035853940",
+    "log_index": "0x1",
+    "block_number": "36151500",
+    "data": {
+      "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+      "fas": ["USDT"],
+      "amounts": [20059295940],
+      "shares": 50000082117697
+    },
+    "indexed_at": "2025-11-13 01:23:57.212961+00",
+    "sender": null
+  },
+  {
+    "id": 1306055,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x5725badaa03143bd5932ccb042c68e6110122b89f5d1ebdba0ee6651a3e4f5fa",
+    "timestamp": "1762997115866679",
+    "log_index": "0x3",
+    "block_number": "36151901",
+    "data": {
+      "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+      "fas": ["USDC"],
+      "amounts": [161931515178],
+      "shares": 218913475311309
+    },
+    "indexed_at": "2025-11-13 01:25:20.748767+00",
+    "sender": null
+  },
+  {
+    "id": 1308262,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xa904400aecbfeea04db128a10e45989b7cd01fda9b168ab0d77e56b6629a8a4b",
+    "timestamp": "1763019586857330",
+    "log_index": "0x3",
+    "block_number": "36181347",
+    "data": {
+      "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+      "fas": ["USDC", "USDT"],
+      "amounts": [208805167, 390227404],
+      "shares": 590000000000
+    },
+    "indexed_at": "2025-11-13 07:39:47.103769+00",
+    "sender": null
+  },
+  {
+    "id": 1310772,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x3c4d6435b4b1bbc48e619dfd640f2c0b22778b2c08067da65717f74127626582",
+    "timestamp": "1763062702367653",
+    "log_index": "0x3",
+    "block_number": "36233026",
+    "data": {
+      "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+      "fas": ["USDT", "MOVE"],
+      "amounts": [2666383, 5045056256],
+      "shares": 11261518902
+    },
+    "indexed_at": "2025-11-13 19:38:48.209663+00",
+    "sender": null
+  },
+  {
+    "id": 1300468,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xf995bbe4a7f7f159b332858cafaba9fe63cdf5e95391ed48f9adec86cd7b673f",
+    "timestamp": "1762914194857617",
+    "log_index": "0x1",
+    "block_number": "36038920",
+    "data": {
+      "pool": "0x12061cb8e5a17ae7d34dd3371479f7cec323e4ad16b8991792fb496d739e87af",
+      "fas": ["USDT"],
+      "amounts": [19960364052],
+      "shares": 45195374793154
+    },
+    "indexed_at": "2025-11-12 02:23:15.117074+00",
+    "sender": null
+  },
+  {
+    "id": 1305047,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0xb04af4e35508bb04fba794594a771bc732f72a4d4bc654e8d3fa8eff426b9d5b",
+    "timestamp": "1762983959851858",
+    "log_index": "0x1",
+    "block_number": "36138151",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC"],
+      "amounts": [4032734721],
+      "shares": 8282056087290
+    },
+    "indexed_at": "2025-11-12 21:46:13.664822+00",
+    "sender": null
+  },
+  {
+    "id": 1305595,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x68bf91926937de59a86c0393aec1d5ff58e8acecfcfde1ca5e952b28b16be0b3",
+    "timestamp": "1762992446853004",
+    "log_index": "0x3",
+    "block_number": "36145416",
+    "data": {
+      "pool": "0x54c89a961dd60e30f1c03ba2c6f5a052e7ed0ba36fcca3c1153f06449199b285",
+      "fas": ["USDC"],
+      "amounts": [116393138655],
+      "shares": 115848731063569
+    },
+    "indexed_at": "2025-11-13 00:07:29.198811+00",
+    "sender": null
+  },
+  {
+    "id": 1305824,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x0b74ce0b2cf839721a3cc700f340ef740a2cea76cad84beb4f0a5b4e667a4fe7",
+    "timestamp": "1762996986354667",
+    "log_index": "0x1",
+    "block_number": "36151331",
+    "data": {
+      "pool": "0x691877d4f5d4c1177d02f6ca3d399df4624af265533d305c008f6cb15d1567bc",
+      "fas": ["USDC"],
+      "amounts": [13769936331],
+      "shares": 30000129570751
+    },
+    "indexed_at": "2025-11-13 01:23:06.644501+00",
+    "sender": null
+  },
+  {
+    "id": 1305984,
+    "event_type": "0x373aab3f20ef3c31fc4caa287b0f18170f4a0b4a28c80f7ee79434458f70f241::events::RemoveLiquidity",
+    "transaction_hash": "0x384e69ab3cc0a89e603bc259385d61b882c22d590f4269d5881db7f2a8cccbc6",
+    "timestamp": "1762997087859772",
+    "log_index": "0x1",
+    "block_number": "36151743",
+    "data": {
+      "pool": "0x110a99c29036cf12de428f55c6c1e1838578e3db6d17a0b3b4e6d2e101d124f1",
+      "fas": ["USDC"],
+      "amounts": [23343802822],
+      "shares": 300015699110
+    },
+    "indexed_at": "2025-11-13 01:24:48.150812+00",
+    "sender": null
+  }
+]
